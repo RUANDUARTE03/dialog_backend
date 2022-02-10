@@ -1,4 +1,4 @@
-# Rodando o projeto dev-typescript-eureka
+# Rodando o projeto dialog_backend
 
 Passos necessários para executar o projeto
 
